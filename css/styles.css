@@ -16,17 +16,22 @@ h1 {
 h2 {
 	font-size:2rem;
 	margin-bottom:1.75rem;
+	/*text-transform: uppercase;*/
 }
 
 .p-title {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Oswald', 'Anton',sans-serif;
 }
 
+.t-desc {
+	font-family: 'PT Serif','Georgia', serif;
+
+}
 .p-desc {
-	font-family: 'PT Serif', serif;
-
+	font-family: 'PT Serif','Georgia', serif;
+	margin-left:5rem;
+	margin-right: 5rem;
 }
-
 .p-link {
 	font-family: 'PT Serif', serif;
 	font-size:0.85rem;
@@ -68,7 +73,13 @@ h2 {
 	/*min-height:100px;*/
 }
 
-
+.h-divider{
+	 margin-top:5px;
+ 	margin-bottom:5px;
+ 	height:1px;
+ 	width:100%;
+	 border-top:1px solid gray;
+}
 .masthead-wrapper {
 	/*height:100%;*/
 	max-height: 900px;
@@ -95,3 +106,6 @@ h2 {
 }
 .list-inline li:after{content:'/'; padding: 0em 0.35em 0em 1em;}
 .list-inline li:last-child:after {content: '';padding: 0em;}
+
+.abt li:after{content:'·'; padding: 0em 0.35em 0em 1em;}
+.abt li:last-child:after {content: '';padding: 0em;}
