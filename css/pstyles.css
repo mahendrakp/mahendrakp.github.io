@@ -27,8 +27,8 @@ h2 {
 
 }
 
-.image-header-bg {
-	background: url('../img/hi-head.jpg') no-repeat center center scroll;
+.hi-header-bg {
+    background: url('../img/hi-head.jpg') no-repeat center center scroll;
     padding: 250px 0;
     background-color: #193755;
    text-align: center;
@@ -37,12 +37,92 @@ h2 {
     background-size: cover;
     -o-background-size: cover;
 }
+.lor-header-bg {
+    background: url('../img/lor-head.jpg') no-repeat center center scroll;
+    padding: 250px 0;
+    background-color: #193755;
+   text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.pc-header-bg {
+    background: url('../img/pc-head.jpg') no-repeat center center scroll;
+    padding: 250px 0;
+    background-color: #193755;
+   text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.hlink-header-bg {
+    background: url('../img/hlink-head.jpg') no-repeat center center scroll;
+    padding: 250px 0;
+    background-color: #193755;
+   text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.rmp-header-bg {
+    background: url('../img/rmp-head.jpg') no-repeat center center scroll;
+    padding: 250px 0;
+    background-color: #193755;
+   text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.bc-header-bg {
+    background: url('../img/bc-head.jpg') no-repeat center center scroll;
+    padding: 250px 0;
+    background-color: #193755;
+   text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.bc-span-image1 {
+   text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background: url('../img/bc3a.jpg') no-repeat center center scroll;
+    height: 600px;
+}
+
+.bc-span-image2 {
+   text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background: url('../img/bc3b.jpg') no-repeat center center scroll;
+    height: 600px;
+}
+
+.bc-span-image3 {
+   text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background: url('../img/bc4a.jpg') no-repeat center center scroll;
+    height: 1800px;
+}
+
 
 .bdr {
     border:1px solid black;
 }
 .section-hheading {
-    margin: 80px 0 50px 0;
+   /* margin: 80px 0 50px 0;*/
     color:#FFF;
     text-transform: uppercase;
 }
@@ -55,6 +135,10 @@ h2 {
     color:#fff;
 }
 
+.section-headtext2{
+    margin: 30px 0;
+    color:#fff;
+}
 .section-space {
     padding-top:100px;
 }
@@ -68,10 +152,20 @@ h2 {
 }
 
 .section-image {
-    max-width: 550px;
+    max-width: 650px;
     min-height: 100px;
 }
-
+.rc-section-image1 {
+    max-width: 900px;
+    min-height: 100px;
+}
+.rc-section-image2 {
+    max-width: 800px;
+    min-height: 100px;
+}
+.img-width{
+    width:450px;
+}
 footer {
     margin: 50px 0;
 }
@@ -96,6 +190,9 @@ footer {
     .section-headtext {
         padding:0 75px;
     }
+    .section-headtext2 {
+        padding:0 100px;
+    }
 }
 @media (min-width:  768px) {
     section {
@@ -117,6 +214,9 @@ footer {
     .section-headtext {
         padding:0 200px;
     }
+    .section-headtext2 {
+        padding:0 250px;
+    }
 }
 @media (min-width: 992px) {
     .section-wrapper {
@@ -125,6 +225,9 @@ footer {
     }
     .section-headtext {
         padding:0 300px;
+    }
+    .section-headtext2 {
+        padding:0 340px;
     }
 }
 @media (min-width: 1200px) {
@@ -135,6 +238,9 @@ footer {
     .section-headtext {
         padding:0 350px;
     }
+    .section-headtext2 {
+        padding:0 345px;
+    }
 }
 @media (min-width: 1600px) {
     .section-wrapper {
@@ -143,6 +249,9 @@ footer {
     }
     .section-headtext {
         padding:0 350px;
+    }
+    .section-headtext2 {
+        padding:0 375px;
     }
 
 }
