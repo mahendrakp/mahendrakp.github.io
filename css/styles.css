@@ -13,6 +13,7 @@ h1 {
 	font-family: 'Oswald', 'Anton',sans-serif;
 	font-size: 3rem;
 	margin-bottom:2rem;
+	font-weight:Bold;
 }
 
 h2 {
@@ -20,6 +21,7 @@ h2 {
 	font-size:2.25rem;
 	margin-bottom:1.75rem;
 	/*text-transform: uppercase;*/
+	font-weight:Bold;
 }
 
 /*a:hover {
