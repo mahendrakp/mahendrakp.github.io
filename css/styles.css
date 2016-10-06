@@ -114,6 +114,8 @@ a.abt-linkdin:hover {color: #0077b5}
 a.abt-twitter:hover {color: #1da1f2}
 a.abt-dribbble:hover {color: #ea4c89}
 
+a.abt-gmail:visited, a.abt-linkdin:visited, a.abt-twitter:visited, a.abt-dribbble:visited { color:#193755; }
+
 .f-text1 {
 	font-family: 'PT Serif','Georgia', serif;
     font-size:0.7rem;
