@@ -109,10 +109,10 @@ a.abt-gmail:link, a.abt-linkdin:link, a.abt-twitter:link, a.abt-dribbble:link { 
 a.abt-linkedin:hover, a.ex1:active {color: #0077b5}
 a.abt-twitter:hover, a.ex1:active {color: #1da1f2}
 a.abt-dribbble:hover, a.ex1:active {color: #ea4c89}*/
-a.abt-gmail:hover {color: #dd4b39}
-a.abt-linkdin:hover {color: #0077b5}
-a.abt-twitter:hover {color: #1da1f2}
-a.abt-dribbble:hover {color: #ea4c89}
+a.abt-gmail:hover {color: #dd4b39;}
+a.abt-linkdin:hover {color: #0077b5;}
+a.abt-twitter:hover {color: #1da1f2;}
+a.abt-dribbble:hover {color: #ea4c89;}
 
 a.abt-gmail:visited, a.abt-linkdin:visited, a.abt-twitter:visited, a.abt-dribbble:visited { color:#193755; }
 a.abt-gmail:active, a.abt-linkdin:active, a.abt-twitter:active, a.abt-dribbble:active { color: #193755; }
