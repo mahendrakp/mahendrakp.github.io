@@ -13,15 +13,15 @@ h1 {
 	font-family: 'Oswald', 'Anton',sans-serif;
 	font-size: 3rem;
 	margin-bottom:2rem;
-	font-weight:Bold;
+	font-weight: Bold;
 }
 
 h2 {
 	font-family: 'Oswald', 'Anton',sans-serif;
 	font-size:2.25rem;
 	margin-bottom:1.75rem;
+	font-weight: Bold;
 	/*text-transform: uppercase;*/
-	font-weight:Bold;
 }
 
 /*a:hover {
@@ -103,14 +103,14 @@ a:hover {
     color:#193755;
     font-size:1.3rem; /*!important/
 }*/
-a.abt-gmail:link, a.abt-linkedin:link, a.abt-twitter:link, a.abt-dribbble:link { color:#193755; }
+a.abt-gmail:link, a.abt-linkdin:link, a.abt-twitter:link, a.abt-dribbble:link { color:#193755; }
 
 /*a.abt-gmail:hover, a.ex1:active {color: #dd4b39}
 a.abt-linkedin:hover, a.ex1:active {color: #0077b5}
 a.abt-twitter:hover, a.ex1:active {color: #1da1f2}
 a.abt-dribbble:hover, a.ex1:active {color: #ea4c89}*/
 a.abt-gmail:hover {color: #dd4b39}
-a.abt-linkedin:hover {color: #0077b5}
+a.abt-linkdin:hover {color: #0077b5}
 a.abt-twitter:hover {color: #1da1f2}
 a.abt-dribbble:hover {color: #ea4c89}
 
