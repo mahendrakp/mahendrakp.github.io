@@ -176,6 +176,13 @@ h2 {
 .img-width{
     width:450px;
 }
+
+.img-width275 {
+    width:275px;
+}
+.img-width650{
+    width:650px;
+}
 footer {
     margin: 50px 0;
 }
