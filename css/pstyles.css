@@ -126,7 +126,16 @@ h2 {
     background: url('../img/bc4a.jpg') no-repeat center center scroll;
     height: 1800px;
 }
-
+.gdx-header-bg {
+    background: url('../gdx/img/gdx-head.jpg') no-repeat center center scroll;
+    padding: 250px 0;
+    background-color: #193755;
+   text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
 
 .bdr {
     border:1px solid black;
