@@ -26,6 +26,16 @@ h2 {
     /*letter-spacing: 1px;*/
 
 }
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    width: 100px;
+} 
 
 .hi-header-bg {
     background: url('../img/hi-head.jpg') no-repeat center center scroll;
