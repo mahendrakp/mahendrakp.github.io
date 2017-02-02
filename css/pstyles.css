@@ -168,6 +168,10 @@ hr {
     margin: 30px 0;
     color:#fff;
 }
+.section-headtext2 em{
+    color:#a1a1a1;
+    font-style: normal;
+}
 .section-space {
     padding-top:100px;
 }
