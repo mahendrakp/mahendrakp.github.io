@@ -156,6 +156,26 @@ hr {
     background-size: cover;
     -o-background-size: cover;
 }
+.ahdx1-header-bg {
+    background: url('../ahdx1/img/ahdx1-head.jpg') no-repeat center center scroll;
+    padding: 250px 0;
+    background-color: #333333;
+   text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.ahdx2-header-bg {
+    background: url('../ahdx2/img/ahdx2-head.jpg') no-repeat center center scroll;
+    padding: 250px 0;
+    background-color: #333333;
+   text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
 .bdr {
     border:1px solid black;
 }
