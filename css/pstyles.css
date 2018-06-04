@@ -176,6 +176,16 @@ hr {
     background-size: cover;
     -o-background-size: cover;
 }
+.zdx-header-bg {
+    background: url('../zdx/img/zdx1-head.jpg') no-repeat center center scroll;
+    padding: 250px 0;
+    background-color: #333333;
+   text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
 .bdr {
     border:1px solid black;
 }
