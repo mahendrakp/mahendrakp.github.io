@@ -186,6 +186,16 @@ hr {
     background-size: cover;
     -o-background-size: cover;
 }
+.ahcom-header-bg {
+    background: url('../ahcom/img/ahcom-head.jpg') no-repeat center center scroll;
+    padding: 250px 0;
+    background-color: #333333;
+   text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
 .bdr {
     border:1px solid black;
 }
